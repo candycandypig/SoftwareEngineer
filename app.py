@@ -554,6 +554,7 @@ def intelligentcent_famer():
         score = calculate_score(row_data)
 
         #项目管理——修改文件21B3 R11C
+        #项目管理——修改文件21B2 R12
 
 
 
